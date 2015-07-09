@@ -1,0 +1,15 @@
+{
+  "name": "NodeCrawl",
+  "version": "0.0.1",
+  "description": "First node project",
+  "main": "app.js",
+  "dependencies": {
+    "request": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
