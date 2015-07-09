@@ -1,5 +1,4 @@
 var async = require('async');
-var http = require('http');
 var request = require('request');
 var md5 = require('MD5');
 var fs = require('node-fs');

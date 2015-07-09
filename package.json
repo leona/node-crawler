@@ -4,7 +4,10 @@
   "description": "First node project",
   "main": "app.js",
   "dependencies": {
-    "request": "latest"
+    "request": "latest",
+    "async": "latest",
+    "MD5": "latest",
+    "node-fs": "latest"
   },
   "devDependencies": {},
   "scripts": {
